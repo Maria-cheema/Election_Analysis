@@ -13,7 +13,7 @@ The purpose of the project was to to complete an election audit of a recent loca
 
 ## Summary 
 Below is screenshot of the results
-![image](https://user-images.githubusercontent.com/120526544/212497314-b6997bff-dee8-4430-8676-a774c656b7d6.png)
+![image](https://user-images.githubusercontent.com/120526544/212503798-48ceb675-1eb2-4a9d-9205-e8715225633d.png)
 
 ## Election audit summary
 This script can be modified to find the most number of votes for different filters other than candidate and county.
