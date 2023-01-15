@@ -12,6 +12,33 @@ The purpose of the project was to to complete an election audit of a recent loca
 -  Python 3.7.6, Visual Studio Code Version: 1.74.3 
 
 ## Election-Audit Results:
+- How many votes were cast in this congressional election? <br>
+  - there were a total of 369,711 votes cast in the election
+
+- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+  - Jefferson: 
+   10.5% (38,855)
+  - Denver: 
+    82.8% (306,055)
+  - Arapahoe: 
+    6.7% (24,801)
+   
+-	Which county had the largest number of votes?<br>
+	-  Denver had the largest voter turnout at 82.8% (306,055) of all the counties represented
+ 
+- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.<br>
+  - Charles Casper Stockham: 
+     23.0% of the vote and 85,213 number of votes.
+  - Diana DeGette: 
+     73.8% of the vote and 272,892 number of votes.
+  - Raymon Anthony Doane: 
+     3.1% of the vote and 11,606 number of votes.
+
+- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+  - Diana DeGette was the winner of the election with 73.8% (272,892) of the total votes cast
+
+
+
 
 Below is screenshot of the results
 ![image](https://user-images.githubusercontent.com/120526544/212503798-48ceb675-1eb2-4a9d-9205-e8715225633d.png)
