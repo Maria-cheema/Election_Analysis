@@ -11,7 +11,8 @@ The purpose of the project was to to complete an election audit of a recent loca
 - Data Source: election_results.csv
 -  Python 3.7.6, Visual Studio Code Version: 1.74.3 
 
-## Summary 
+## Election-Audit Results:
+
 Below is screenshot of the results
 ![image](https://user-images.githubusercontent.com/120526544/212503798-48ceb675-1eb2-4a9d-9205-e8715225633d.png)
 
